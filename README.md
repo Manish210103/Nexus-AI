@@ -1,4 +1,6 @@
-# MERN Chat Bot Application with Gemini API
+# NEXUS AI 🤖👋
+
+## MERN Chat Bot Application with Gemini API
 
 This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack. It utilizes the Gemini API for chat bot functionality.
 
@@ -39,4 +41,4 @@ This is a full-stack web application built with the MERN (MongoDB, Express, Reac
 3. npm run build
 4. npm run dev
 
-Access the application:Open your browser and go to http://localhost:3000/
+Access the application:Open your browser and go to localhost.
